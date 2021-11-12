@@ -9,14 +9,14 @@
 
 [![npm badge][npm-badge-png]][package-url]
 
-Determine if the JS environment has template literal support.
+Determine if the JS environment has optional chaining support.
 
 ## Example
 
 ```js
 var hasOptionalChaining = require('has-optional-chaining');
 
-hasOptionalChaining() === true; // if the environment has native template literal support.
+hasOptionalChaining() === true; // if the environment has native optional chaining support.
 ```
 
 ## Tests
