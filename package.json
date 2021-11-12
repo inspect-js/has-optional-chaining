@@ -1,6 +1,6 @@
 {
 	"name": "has-optional-chaining",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Determine if the JS environment has optional chaining support",
 	"main": "index.js",
 	"exports": {
