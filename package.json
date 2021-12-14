@@ -48,13 +48,13 @@
 	},
 	"homepage": "https://github.com/inspect-js/has-optional-chaining#readme",
 	"devDependencies": {
-		"@ljharb/eslint-config": "^19.0.1",
+		"@ljharb/eslint-config": "^20.0.0",
 		"aud": "^1.1.5",
 		"auto-changelog": "^2.3.0",
-		"eslint": "^8.2.0",
+		"eslint": "^8.4.1",
 		"nyc": "^10.3.2",
 		"safe-publish-latest": "^2.0.0",
-		"tape": "^5.3.1"
+		"tape": "^5.3.2"
 	},
 	"testling": {
 		"files": "test/index.js"
